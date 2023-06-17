@@ -1,6 +1,9 @@
-# GarageVision
-A vision system for a standard garage. 
+<h1>GarageVision</h1>
 
-## Stating point
-Preparing the cameras. For this proeject we are using the ESP32-Cam, because it is both easily available and relatively cheap. Since the idea is to create a vision system for our garage we will be starting with 4 cameras, 1 for each corner. 
+<p>An AI approach to a computer vision system.</p> 
 
+<h2> <font color=#ff9900>
+    ChatGTP Prompt <a id=chatGTP_prompt></a>
+</font></h2>
+
+**How to create a vision system that can recognize motorcycle parts in 3d using a camera in 4 corners of a room.**
